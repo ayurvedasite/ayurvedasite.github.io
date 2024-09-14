@@ -28,7 +28,7 @@ Ayurveda Consultancy is dedicated to helping individuals improve their health an
 
 To get started with Ayurveda Consultancy:
 
-1. **Visit Our Website:** Go to [www.ayurvedaconsultancy.com](http://www.ayurvedaconsultancy.com).
+1. **Visit Our Website:** Go to [https://ayurvedasite.github.io/](https://ayurvedasite.github.io/).
 2. **Sign Up:** Create an account to access our services and resources.
 3. **Explore Services:** Review the services we offer and choose the ones that best fit your needs.
 4. **Book a Consultation:** Schedule an appointment with one of our practitioners.
@@ -57,10 +57,10 @@ Our resources include:
 
 For any inquiries or support, please reach out to us:
 
-- **Email:** support@ayurvedaconsultancy.com
-- **Phone:** +1-800-123-4567
-- **Address:** 123 Wellness Lane, Suite 100, Health City, HC 12345
-- **Social Media:** Follow us on [Twitter](https://twitter.com/AyurvedaConsult), [Facebook](https://facebook.com/AyurvedaConsultancy), and [Instagram](https://instagram.com/AyurvedaConsult).
+- **Email:** 
+- **Phone:** 
+- **Address:** 
+- **Social Media:** Follow us on [Twitter](), [Facebook](), and [Instagram]().
 
 ## License
 
